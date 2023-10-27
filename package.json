@@ -16,6 +16,10 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+   "files": [
+    "README.md",
+    "dist"
+  ],
   "bugs": {
     "url": "https://github.com/face08/test-packages/issues"
   },
