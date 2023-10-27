@@ -1,0 +1,8 @@
+node_modules
+.vscode
+.idea
+.npmrc
+build
+release
+docs
+.parcel-cache
